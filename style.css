@@ -2,35 +2,29 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
-    background-color: #39c5bb;
+    background-color: #e4e5f1;
 }
 
 h1 {
-    font-size: 3em;
-    color: navy;
+    font-size: 4em;
+    color: black;
     text-align: center;
-    margin-bottom: 20px;
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 3em;
     color: black;
     text-align: center;
-    margin-bottom: 20px;
 }
 
 h3 {
-    text-align: center;
-}
-
-h4 {
-    text-align: center;
-    margin-bottom: 10px;
+    font-size: 2em;
+    color: black;
+    margin-bottom: 20px;
 }
 
 p {
     font-size: 1em;
     color: black;
-    text-align: center;
 }
 
